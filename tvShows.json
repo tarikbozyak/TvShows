@@ -1625,12 +1625,12 @@
     ],
     "settings": {
       "section": {
-        "sectionName": "",
+        "name": "",
         "isActive": true
       },
       "header": {
         "title": "1.Section",
-        "image": ""
+        "image": "systemImage://movieclapper"
       }
     }
   },
@@ -3250,12 +3250,12 @@
     ],
     "settings": {
       "section": {
-        "sectionName": "",
+        "name": "",
         "isActive": true
       },
       "header": {
         "title": "2.Section",
-        "image": ""
+        "image": "systemImage://movieclapper"
       }
     }
   },
@@ -4886,12 +4886,12 @@
     ],
     "settings": {
       "section": {
-        "sectionName": "",
+        "name": "",
         "isActive": true
       },
       "header": {
         "title": "3.Section",
-        "image": ""
+        "image": "systemImage://movieclapper"
       }
     }
   },
@@ -6435,12 +6435,12 @@
     ],
     "settings": {
       "section": {
-        "sectionName": "",
+        "name": "",
         "isActive": true
       },
       "header": {
         "title": "4.Section",
-        "image": ""
+        "image": "systemImage://movieclapper"
       }
     }
   },
@@ -7964,12 +7964,12 @@
     ],
     "settings": {
       "section": {
-        "sectionName": "",
+        "name": "",
         "isActive": true
       },
       "header": {
         "title": "5.Section",
-        "image": ""
+        "image": "systemImage://movieclapper"
       }
     }
   },
@@ -9558,12 +9558,12 @@
     ],
     "settings": {
       "section": {
-        "sectionName": "",
+        "name": "",
         "isActive": true
       },
       "header": {
         "title": "6.Section",
-        "image": ""
+        "image": "systemImage://movieclapper"
       }
     }
   },
@@ -11212,12 +11212,12 @@
     ],
     "settings": {
       "section": {
-        "sectionName": "",
+        "name": "",
         "isActive": true
       },
       "header": {
         "title": "7.Section",
-        "image": ""
+        "image": "systemImage://movieclapper"
       }
     }
   },
@@ -12804,12 +12804,12 @@
     ],
     "settings": {
       "section": {
-        "sectionName": "",
+        "name": "",
         "isActive": true
       },
       "header": {
         "title": "8.Section",
-        "image": ""
+        "image": "systemImage://movieclapper"
       }
     }
   },
@@ -13306,12 +13306,12 @@
     ],
     "settings": {
       "section": {
-        "sectionName": "",
+        "name": "",
         "isActive": true
       },
       "header": {
         "title": "9.Section",
-        "image": ""
+        "image": "systemImage://movieclapper"
       }
     }
   }
